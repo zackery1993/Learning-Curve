@@ -1,0 +1,19 @@
+<!--DOCTYPE HTML--!>
+<h1> Lucy's Dinosaur Club </h1>
+<h2> All things dinosaurs for your dino loving kid </h2>
+			 <img src= "content://media/external/downloads/5674" alt="A roaring T-rex." >
+
+<p> On this page we will discuss all things dinosaurs. We will cover any and all topics related to the subject. The goal is to connect kods of all ages through a single interest. </p>
+			<ul> Facts about dinosaurs
+			<li> Dinosaurs lived millions of years ago </li>
+			<li> All dinosuars were different in their own way </li>
+			<li> All that is left of dinosaurs are their bones known as "fosils" </li>
+
+<p> Please tell us some of your favorite dinasour facts so we can get the conversation started</p>
+<input name="Your favorite facts"> <button>submit </button>
+
+<p> Would you like to sign up to be part of our dinomania mailing list?</p>
+
+<label for="yes"><input id="yes" type="radio" name="yes or no"> yes </label>
+<label for="no"><input id="no" type="radio" name="yes or no"> no </label>
+<!--
